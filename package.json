@@ -6,13 +6,13 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "canary",
+    "next": "^13.4.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@types/node": "^18.11.13",
-    "@types/react": "^18.0.26",
-    "typescript": "^4.9.4"
+    "@types/node": "^18.16.17",
+    "@types/react": "^18.2.11",
+    "typescript": "^4.9.5"
   }
 }
